@@ -8,7 +8,7 @@ int main()
 
     for (NumA=1; NumA<=30; NumA++)
         {
-        printf("Alumno %d\n",NumA);
+        printf("Alumno %d\n", NumA);
 
         for (NumNota=1; NumNota<=10; NumNota++)
             {
