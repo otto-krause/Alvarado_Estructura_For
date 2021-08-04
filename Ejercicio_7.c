@@ -8,7 +8,7 @@ int main()
 
     for (Vendedor=1; Vendedor<=20; Vendedor++)
         {
-        printf("\nVendedor %d: ",Vendedor);
+        printf("\nVendedor %d: ", Vendedor);
         scanf("%d",&Venta);
 
         VT=Venta*15;
