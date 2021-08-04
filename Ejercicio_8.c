@@ -8,7 +8,7 @@ int main()
 
     for (NumI=1; NumI<=10; NumI++)
         {
-        printf("Numero %d: ",NumI);
+        printf("Numero %d: ", NumI);
         scanf("%d",&Num);
         if(Num>0)
             {
